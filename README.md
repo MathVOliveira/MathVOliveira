@@ -1,6 +1,6 @@
 # 👋 Matheus Viana de Oliveria 
 
-Olá, sou formado em Biologia e atualmente estou fazendo licenciatura na mesma área. Tenho grande interesse em tecnologia, comecei aprendendo lógica de programação com a linguagem Python através de alguns cursos, desde então estudo para futuramente mudar de área.
+Olá, sou formado em Biologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Tenho grande interesse em tecnologia, comecei aprendendo lógica de programação com a linguagem Python através de alguns cursos online, desde então estudo para conseguir minha primeira vaga na área.
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/matheus-viana-b04b38200/)
