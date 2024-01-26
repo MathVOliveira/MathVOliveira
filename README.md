@@ -5,7 +5,7 @@ Olá, sou formado em Biologia e atualmente estou cursando Análise e Desenvolvim
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/matheus-viana-b04b38200/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/vianamath/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/MathVOliveira)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/MathVOliveira?tab=repositories)
 
 ## 💻 Conhecimentos
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
