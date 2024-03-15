@@ -12,6 +12,7 @@ Olá, sou formado em Biologia e atualmente estou cursando Análise e Desenvolvim
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor)
+![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 Status GitHub:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MathVOliveira&theme=midnight-purple)
