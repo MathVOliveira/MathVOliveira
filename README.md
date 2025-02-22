@@ -1,4 +1,4 @@
-# 👋 Matheus Viana de Oliveria 
+# 👋 Matheus Viana de Oliveira 
 
 Olá, sou formado em Biologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Tenho grande interesse em tecnologia, comecei aprendendo lógica de programação com a linguagem Python através de alguns cursos online, desde então estudo para conseguir minha primeira vaga na área.
 
